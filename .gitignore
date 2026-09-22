@@ -60,3 +60,6 @@ logs/
 # Uploads (local dev only)
 /uploads/
 /tmp/
+
+.env.production
+vercel-env.txt
